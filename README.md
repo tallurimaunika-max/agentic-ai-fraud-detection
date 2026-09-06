@@ -158,7 +158,7 @@ Open:
 
 # Author
 
-**Kirti Sinha**
+**Maunika Talluri**
 
 Data AI Professional
 
